@@ -1,0 +1,1 @@
+[{"title":"guitarra","price":123.45,"thumbnail":"https://images.app.goo.gl/EhRq8oJRvHcMLtBt6","id":1},{"title":"piano","price":234.56,"thumbnail":"https://images.app.goo.gl/NPmngiEvBVmZAsXA8","id":2}]
